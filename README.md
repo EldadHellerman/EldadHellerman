@@ -5,7 +5,7 @@ If you ask me what my favorite programming language is, I will have no answer; t
 
 I’m currently studying electrical engineering and computer science at The Hebrew University.
 
-You can [visit my blog](https://eldadhellerman.infinityfreeapp.com/) to see some of my projects.
+~You can [visit my blog](https://eldadhellerman.infinityfreeapp.com/) to see some of my projects.~ (Currently down since free hosting services are terrible.)
 
 Feel free to [contact me](mailto:EldadHellerman@gmail.com).
 
